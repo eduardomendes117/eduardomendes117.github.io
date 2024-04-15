@@ -1,6 +1,6 @@
 - [inicio](https://eduardomendes117.github.io/)
 
-Bem-vindo ao meu site Este é um resumo breve do que você pode encontrar aqui.
+Bem-vindo ao meu site. Este é um resumo breve do que você pode encontrar aqui.
 
 ## Descrição
 
