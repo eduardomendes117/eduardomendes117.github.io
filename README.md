@@ -1,8 +1,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Olá, meu nome é Eduardo. Sou <strong>Desenvolvedor Web</strong>. Atuo na parte de criação de site.
+<br>
+
+  Estou estudando HTML e CSS no Curso em Video .
 </p>
 
 <p align="left">
