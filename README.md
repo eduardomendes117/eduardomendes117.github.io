@@ -2,9 +2,6 @@
 
 <p align="left"> 
 Olá, meu nome é Eduardo. Sou <strong>Desenvolvedor Web</strong>. Atuo na parte de criação de site.
-<br>
-
-  Estou estudando HTML e CSS no Curso em Video .
 </p>
 
 <p align="left">
